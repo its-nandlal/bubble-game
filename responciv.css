@@ -1,0 +1,54 @@
+@media screen and (max-width: 768px) {
+    .pgbtmh1{
+        font-size: 25px;
+    }
+    .gmov h1 {
+        font-size: 20px;
+    }
+
+}
+
+
+@media screen and (max-width: 550px) {
+
+    #page {
+        width: 95vw;
+        height: 70vh;
+        transform: translate(0%,-5%);
+    }
+
+    #pgbtm{
+        padding: 15px 0.3vw;
+    }
+    .elem h4{
+        font-size: 20px;
+    }
+    .elem .box {
+        padding: 5px 10px;
+    }
+
+    #pgbtm h1 {
+        padding: 6px 15px;
+    }
+
+    .pgbtmh1 {
+        font-size: 23px;
+    }
+    .gmov h1 {
+        font-size: 18px;
+    }
+
+    #musicplay {
+        padding: 10px 13px;
+        bottom: 1vh;
+    }
+
+    .pluspoint {
+        transform: translate(300%, -50%);
+    }
+
+    .deckrige {
+        transform: translate(360%, -50%);
+    }
+
+}
